@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Akshay02022/30DaysNodeJSChallenge/issues"
   },
-  "homepage": "https://github.com/Akshay02022/30DaysNodeJSChallenge#readme"
+  "homepage": "https://github.com/Akshay02022/30DaysNodeJSChallenge#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }

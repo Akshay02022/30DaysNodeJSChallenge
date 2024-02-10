@@ -1,0 +1,17 @@
+body{
+  background-color: #181818;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+  color: #eeeeee;
+}
+h2{
+  color: aquamarine;
+}
+p{
+  color: #acacac;
+}
+code{
+  color: greenyellow;
+  font-size: 20px;
+}

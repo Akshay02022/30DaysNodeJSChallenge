@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/Akshay02022/30DaysNodeJSChallenge#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "dotenv": "^16.4.2",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2"
   }
 }
